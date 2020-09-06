@@ -40,7 +40,7 @@ module.exports = {
     'nuxt-trailingslash-module',
     'nuxt-webfontloader',
     'cookie-universal-nuxt',
-    '@nuxtjs/style-resources'
+    '@nuxtjs/style-resources',
   ],
 
   webfontloader: {
